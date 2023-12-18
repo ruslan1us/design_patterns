@@ -1,0 +1,16 @@
+.idea/.gitignore
+.idea/design_patterns.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+__pycache__/convertwindow.cpython-311.pyc
+__pycache__/decoratorwindow.cpython-311.pyc
+__pycache__/eqswindow.cpython-311.pyc
+__pycache__/footerwindow.cpython-311.pyc
+__pycache__/mainwindow.cpython-311.pyc
+creational/__pycache__/abstractfactory.cpython-311.pyc
+creational/__pycache__/factorymethod.cpython-311.pyc
+creational/__pycache__/singleton.cpython-311.pyc
+structural/__pycache__/adapter.cpython-311.pyc
+structural/__pycache__/decorator.cpython-311.pyc
