@@ -14,3 +14,14 @@ creational/__pycache__/factorymethod.cpython-311.pyc
 creational/__pycache__/singleton.cpython-311.pyc
 structural/__pycache__/adapter.cpython-311.pyc
 structural/__pycache__/decorator.cpython-311.pyc
+filename.data
+filename.mp3
+filename.wav
+structural/__pycache__/facade.cpython-311.pyc
+behavioral/__pycache__/iterator.cpython-311.pyc
+behavioral/__pycache__/observer.cpython-311.pyc
+behavioral/__pycache__/strategy.cpython-311.pyc
+__pycache__/groupwindow.cpython-311.pyc
+__pycache__/iteratorwindow.cpython-311.pyc
+__pycache__/renderwindow.cpython-311.pyc
+__pycache__/strategywindow.cpython-311.pyc
